@@ -6,4 +6,7 @@ This repository contains code and resources used for participating in the "Clima
 - CodaLab https://codalab.lisn.upsaclay.fr/competitions/16206#learn_the_details
 
 
-
+## Disclaimer
+This is the last version of the code and may not correspond exactly to the version used to produce the results reported in the paper.
+Additional experiments were performed after the submission deadline. 
+In order to obtain the results from the paper, the exact same parameter values and architecture must be used.
