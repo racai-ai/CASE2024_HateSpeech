@@ -4,7 +4,8 @@ This repository contains code and resources used for participating in the "Clima
 ## Resources
 - CASE 2024 https://emw.ku.edu.tr/case-2024/
 - CodaLab https://codalab.lisn.upsaclay.fr/competitions/16206#learn_the_details
-
+- the base BERT model used is bert-large-uncased
+- the dataset is not included and must be obtained from the task organizers
 
 ## Disclaimer
 This is the last version of the code and may not correspond exactly to the version used to produce the results reported in the paper.
